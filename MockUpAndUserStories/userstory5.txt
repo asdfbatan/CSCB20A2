@@ -1,0 +1,2 @@
+As a student user, when I click on the announcement page on the CSCB20 website, recent announcements must be posted.
+

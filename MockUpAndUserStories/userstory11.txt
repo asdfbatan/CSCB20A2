@@ -1,0 +1,1 @@
+As a user, whenever I am browsing the page, I should see the title of CSCB20.

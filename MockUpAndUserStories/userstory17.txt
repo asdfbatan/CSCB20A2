@@ -1,0 +1,1 @@
+As a student user, the student user should be able to see the menu adjusts into a closed drop-down list, when using mobile devices to view the page.

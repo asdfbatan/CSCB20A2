@@ -1,0 +1,1 @@
+As a user, when I rolled down to the end of the page, I should see the designer's name.

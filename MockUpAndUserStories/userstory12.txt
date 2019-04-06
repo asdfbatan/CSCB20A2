@@ -1,0 +1,2 @@
+As a user, I should go to home page whenever I click on the home button.
+

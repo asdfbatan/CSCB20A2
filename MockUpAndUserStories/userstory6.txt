@@ -1,0 +1,1 @@
+As a student user, when I click on the Course Team page on the CSCB20 website, I must be able to see all the teams of the course and team members allocation.

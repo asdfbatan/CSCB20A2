@@ -1,0 +1,1 @@
+As a student user, the student user must be able to see the list of Instructor and TAs, as well as their contact information on the 'Recourses' page, when click 'View course team' link on the home page.

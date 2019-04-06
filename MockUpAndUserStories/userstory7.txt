@@ -1,0 +1,2 @@
+As a student user, when I click on the Assignment page on the CSCB20 website, I must see all the assignments listed with a instruction link.
+

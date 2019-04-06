@@ -1,0 +1,72 @@
+Mark breakdown
+
+------------------- start of part (a) -------------------
+
+Website (70% of total mark)
+----------
+Content & Functionality (60%)
+
+Total: 4/5
+Comments: Not responsive. (-1 mark)
+----------
+Use of CSS (30%)
+
+Total: 5/5
+Comments: Excellent use of CSS!
+----------
+User Experience (5%)
+
+Total: 5/5
+Comments: Excellent user experience!
+----------
+Code Quality (5%)
+
+Total: 5/5
+Comments: Excellent code quality!
+
+------------------- end of part (a) -------------------
+
+------------------- start of part (b) -------------------
+
+Mockup and User Stories (20% of total mark)
+----------
+M/U 1: 2/2
+M/U 2: 2/2
+M/U 3: 2/2
+M/U 4: 2/2
+M/U 5: 2/2
+M/U 6: 2/2
+M/U 7: 2/2
+M/U 8: 2/2
+M/U 9: 2/2
+M/U 10: 2/2
+
+Total: 20/20
+Comments: Excellent user stories and mockup!
+
+------------------- end of part (b) -------------------
+
+------------------- start of part (c) -------------------
+
+Report (10% of total mark)
+----------
+Total: 10/10
+Comments: Excellent report!
+
+------------------- end of part (c) -------------------
+
+------------------- start of deductions -------------------
+
+(-30) if used JS: NO
+(-15) if tar not created properly, (e.g. created other types of archive and rename it to TAR): NO
+(-10) if worked alone: NO
+(-5) if report not in pdf; or any of Honor Code or user stories not in txt: NO
+(-5) if files not contained in a directory called 'Assignment2'; or User stories and Mockups not put in 'MockUpAndUserStories' etc: NO
+(-5) if inline-css is used: NO
+(-5) if <table> tag is used: NO
+Total Deductions: 0
+------------------- end of deductions -------------------
+
+
+Total w/o	 Deductions: 91.6/100
+Total with	 Deductions: 91.6/100

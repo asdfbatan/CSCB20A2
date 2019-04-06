@@ -1,0 +1,1 @@
+As a student user, when I click on the Syllabus page on the CSCB20 website, a syllabus of CSCB20 and informations should be shown.

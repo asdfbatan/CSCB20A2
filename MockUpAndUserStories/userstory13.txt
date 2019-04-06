@@ -1,0 +1,2 @@
+As a user, I should have a quick access to Piazza when browsing the webpage.
+

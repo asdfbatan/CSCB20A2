@@ -1,0 +1,1 @@
+As a student user, when I click on the Anon Feedback page on the CSCB20 website, I must be able to write an anonymous feedback in this page and submit.
